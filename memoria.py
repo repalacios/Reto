@@ -1,4 +1,5 @@
-"""Memory, puzzle game with emojis instead of numbers.
+"""
+Memory, puzzle game with emojis instead of numbers.
 
 Cambios:
 1. Contar y desplegar el número de taps.
@@ -110,3 +111,4 @@ tracer(False)
 onscreenclick(tap)
 draw()
 done()
+
